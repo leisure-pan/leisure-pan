@@ -1,6 +1,6 @@
 ## 你好 👋
 
-**leisure-pan/leisure-pan** 是一个 _特殊_ 仓库，因为它的 `README.md`（这个文件）会显示在你的 GitHub 个人主页上。
+
 
 这里有一些关于我的信息：
 
