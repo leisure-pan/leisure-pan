@@ -1,16 +1,14 @@
-## Hi there 👋
+## 你好 👋
 
-<!--
-**leisure-pan/leisure-pan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**leisure-pan/leisure-pan** 是一个 _特殊_ 仓库，因为它的 `README.md`（这个文件）会显示在你的 GitHub 个人主页上。
 
-Here are some ideas to get you started:
+这里有一些关于我的信息：
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 我目前正在 **学习 Vibe Coding** —— 用 AI 辅助开发，使用 Trae、Codex、WorkBuddy 等工具来生成应用。
+- 🌱 我正在学习 **MCP 协议**、**自动化脚本**，以及如何借助 AI 实现论文下载器等实用工具。
+- 👯 我想在 **开源 AI 项目** 或有趣的编程实验上与人合作。
+- 🤔 我需要帮助的地方是 **优化 AI 生成代码的质量**，非常愿意向他人学习。
+- 💬 可以问我关于 **Python、JavaScript、Git** 或者如何开始 Vibe Coding 的问题。
+- 📫 联系我：可以通过本仓库的 Issues 或直接在 GitHub 上找我。
+- 😄 代词：他（或者直接叫我 leisure 就好）
+- ⚡ 有趣的事：我跟 AI 聊着天写代码，比纯手敲快多了 😄
